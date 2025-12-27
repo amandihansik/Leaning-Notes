@@ -1,4 +1,4 @@
-# Part 02 – Introduction to HTML
+# Introduction to HTML
 
 ## What is HTML?
 HTML (HyperText Markup Language) is the standard language used to create web pages.
