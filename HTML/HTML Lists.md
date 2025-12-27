@@ -1,4 +1,4 @@
-# Part 03 – HTML Lists
+# HTML Lists
 
 - In this part, I am learning about **HTML Lists**.  
 - Lists are used to display related items in an organized and readable way.  
