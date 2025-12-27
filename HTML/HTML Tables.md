@@ -1,4 +1,4 @@
-# Part 04 – HTML Tables
+# HTML Tables
 
 - In this part, I am learning about **HTML Tables**.  
 - Tables are used to display data in a structured format using **rows and columns**.  
