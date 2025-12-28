@@ -100,7 +100,7 @@ The basic form structure looks like this:
 
 ## Learning Summary
 
-In Part 05, I learned how to:
+I learned how to:
 - Create HTML forms using the `<form>` tag
 - Add text, email, and password inputs
 - Add a submit button to send data
