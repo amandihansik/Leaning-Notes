@@ -93,5 +93,5 @@ A description list is used to display terms with their definitions.
 
 ## Learning Summary
 
-In Part 03, I learned about HTML lists including unordered lists, ordered lists, and description lists.  
+I learned about HTML lists including unordered lists, ordered lists, and description lists.  
 HTML lists help present related information in a clear and structured way.
