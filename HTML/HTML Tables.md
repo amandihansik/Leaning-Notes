@@ -97,5 +97,5 @@ An HTML table organizes data into rows and columns, making information easy to r
 
 ## Learning Summary
 
-In Part 04, I learned how to create HTML tables using table, row, heading, and data tags.  
+I learned how to create HTML tables using table, row, heading, and data tags.  
 Tables help present data in an organized and professional format.
